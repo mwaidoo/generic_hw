@@ -1,2 +1,2 @@
 # generic_hw
-Automatated testing module
+Test clone, push, pull
