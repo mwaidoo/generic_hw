@@ -1,2 +1,2 @@
 # generic_hw
-Test clone, push, pull
+Testing clone, push, pull with a simple "Hello World!" C program and makefile.
