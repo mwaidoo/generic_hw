@@ -1,5 +1,5 @@
 // Name		: hello.c
-// Author	: Michael Aidoo | michael.w.aidoo@nasa.gov
+// Author	: Michael Aidoo
 // Created	: 06-13-2024
 // Description	: writes the file hello.txt with contents "Hello World!\n"
 
