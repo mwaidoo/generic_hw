@@ -1,15 +1,11 @@
 // Name		: hello.c
 // Author	: Michael Aidoo
 // Created	: 06-13-2024
-// Description	: writes the file hello.txt with contents "Hello World!\n"
+// Description	: writes the file hello.txt with contents "Hello World!"
 
 #include <stdio.h>
 
 int main() {
-	FILE *fp;
-	fp = fopen("hello.txt", "w");
-	fprintf(fp, "Hello World!\n");
-	fclose(fp);
-
+	printf("Hello World!");
 	return 0;
 }
